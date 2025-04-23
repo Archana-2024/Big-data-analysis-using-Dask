@@ -1,4 +1,4 @@
 # Big-data-analysis-using-Dask
-I have completed this project using dask library.
-The dataset appears to describe e-commerce transactions, including customer details, order information, product details, and delivery metrics. It combines attributes for transactions, shipping, sales, customer demographics, product inventory, and geography.
 
+Project Overview-
+In this project I have done analysis of Data Co's supply chain data spanning 2015 to 2018. The analysis revealed significant insights and actionable recommendations across various facets of the supply chain, from shipping delays and fraud detection to customer segmentation and market expansion. Key findings highlighted challenges in 'Same Day' shipping, potential for centralized warehouses, and opportunities in product profitability. Additionally,. Our recommendations focus on improving inventory management, streamlining order fulfillment, and enhancing customer satisfaction. We also emphasized the importance of resilience and risk management in the face of external challenges, such as natural disasters. Overall, our comprehensive approach provides Data Co with a strategic roadmap for operational optimization and business growth.
